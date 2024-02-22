@@ -8,3 +8,7 @@ Feb 22, 2024 2:19:02 AM rasmussen.bookmasters.LoggerUtility log
 INFO: getAllBooks method called
 Feb 22, 2024 2:22:23 AM rasmussen.bookmasters.LoggerUtility log
 INFO: getAllBooks method called
+Feb 22, 2024 2:48:52 AM rasmussen.bookmasters.LoggerUtility log
+INFO: getAllBooks method called
+Feb 22, 2024 2:49:37 AM rasmussen.bookmasters.LoggerUtility log
+INFO: searchForCategory method called for bookCategory: science fiction
